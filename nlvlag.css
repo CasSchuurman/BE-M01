@@ -1,0 +1,18 @@
+/** Nederlandse vlag **/
+
+#Rood{
+    background-color: red;
+
+}
+#Wit{
+    background-color: White;
+}
+#Blauw{
+    background-color: blue;
+}
+table{
+    width: 15%;
+}
+hr{
+    opacity: 0;
+}
